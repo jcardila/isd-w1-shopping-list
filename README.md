@@ -4,3 +4,4 @@
 - Salsa
 - Claras
 - Avena
+- *Salsa bold*
